@@ -1,0 +1,2 @@
+# home-inventory-angular
+frontend
